@@ -13,9 +13,9 @@
   <a href="mailto:nikhiladyapak31@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="./NIKHIL_ADYAPAK_resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
-  </a>
+  <a href="https://github.com/NikhilAdyapak/NikhilAdyapak/blob/main/NIKHIL_ADYAPAK_resume.pdf?raw=true" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+</a>
 
   <br />
   <br />
