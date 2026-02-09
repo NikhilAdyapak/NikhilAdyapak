@@ -8,13 +8,6 @@ body {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif !important;
 }
 
-/* 2. KILL THE MARGINS (Full Width) */
-.container-lg, .markdown-body {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 !important;
-  padding: 20px 40px !important; /* Slight padding so text doesn't touch edge */
-}
 
 /* 3. Hide the default Header/Footer/Title */
 .Header, .footer, .site-footer {
