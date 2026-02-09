@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Nikhil+Adyapak;MS+Data+Science+%40+UW-Madison;Ex-Senior+Engineer+%40+Bosch;MLOps+%7C+Distributed+Systems+%7C+AI" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20MLOps%20Specialist%20%7C%20Data%20Science%20%40%20UW-Madison&descAlignY=62&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
   
   <a href="https://www.linkedin.com/in/nikhil-adyapak">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=VAOBlIMAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="mailto:nikhiladyapak31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="./NIKHIL_ADYAPAK_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
@@ -68,6 +68,6 @@ Currently, I am serving as a **Graduate Teaching Assistant** for *CS 564: Databa
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhilAdyapak&show_icons=true&theme=radical&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilAdyapak&layout=compact&theme=radical&hide_border=true" height="150" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilAdyapak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilAdyapak&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Languages" />
 </div>
