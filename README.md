@@ -13,8 +13,8 @@
   <a href="mailto:nikhiladyapak31@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/NikhilAdyapak/NikhilAdyapak/blob/main/NIKHIL_ADYAPAK_resume.pdf?raw=true" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+  <a href="https://NikhilAdyapak.github.io/NikhilAdyapak/NIKHIL_ADYAPAK_resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
 </a>
 
   <br />
@@ -101,7 +101,5 @@ Currently, I am serving as a **Graduate Teaching Assistant** for *CS 564: Databa
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhilAdyapak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilAdyapak&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilAdyapak&theme=radical&hide_border=true" height="150" alt="Streak" />
 </div>
