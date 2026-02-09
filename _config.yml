@@ -1,5 +1,5 @@
-title: Nikhil Adyapak
-description: ML Engineer | MLOps Specialist
-theme: jekyll-theme-minimal
-show_downloads: false
-google_analytics:
+title: " "
+description: " "
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
