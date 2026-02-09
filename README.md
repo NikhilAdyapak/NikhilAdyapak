@@ -103,4 +103,5 @@ Currently, I am serving as a **Graduate Teaching Assistant** for *CS 564: Databa
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikhilAdyapak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilAdyapak&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilAdyapak&theme=radical&hide_border=true" height="150" alt="Streak" />
 </div>
