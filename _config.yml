@@ -1,0 +1,10 @@
+# This sets the theme to "Midnight" (A clean, professional Dark Mode)
+theme: jekyll-theme-midnight
+
+# This removes the duplicate "NikhilAdyapak" heading at the top
+title: " "
+description: " "
+
+# This ensures your header image spans the full width
+plugins:
+  - jekyll-seo-tag
