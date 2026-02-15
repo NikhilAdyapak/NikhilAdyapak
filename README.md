@@ -98,6 +98,7 @@ Currently, I am serving as a **Graduate Teaching Assistant** for *CS 564: Databa
 | **MLOps Pipeline for Pedestrian Detection** | Built an end-to-end MLOps lifecycle using **DVC + MLflow** on Azure. Enabled multi-GPU training and reduced costs by 60%. | 💻 [**MLOps DVC Pipeline**](https://github.com/NikhilAdyapak/DVC_Detectron2) <br> 💻 [**MLOps Pedestrian Detection**](https://github.com/NikhilAdyapak/MLOps_Pipeline) |
 | **Decrypting Transposition Ciphers** | **(IEEE SmartGenCon)** Developed optimization techniques to break columnar transposition ciphers using Python. |  📄 [**DOI Link**](https://doi.org/10.1109/SMARTGENCON56628.2022.10083631)<br>💻 [**View Repo**](https://github.com/NikhilAdyapak/SingleColumnarTranspositionKeylessDecryption)<br> |
 | **Distributed ML Training System** | Designed a **Ray Cluster** system on AKS, reducing retraining cycles by **75%** (4 weeks → 1 week) for 30+ teams. | 🔒 *Private (Work Experience)* |
+| **Scene Understanding Pipeline** | Engineered an image retrieval pipeline using **Scene Graphs** (Hugging Face Transformers + Foundation Models) to generate fine-grained datasets, improving corner-case discovery for complex driving scenarios.| 🔒 *Private (Work Experience)* |
 
 ---
 
