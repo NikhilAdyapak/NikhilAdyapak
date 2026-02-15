@@ -21,7 +21,7 @@
   <br />
 
   <a href="https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
+    <img src="https://img.shields.io/badge/CV-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
   </a>
   &nbsp;
   <a href="https://nikhiladyapak.github.io/" target="_blank">
