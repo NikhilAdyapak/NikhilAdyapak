@@ -20,12 +20,16 @@
   <br />
   <br />
 
-  <a href="https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+  <a href="https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
   </a>
   &nbsp;
-  <a href="https://github.com/NikhilAdyapak">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://nikhiladyapak.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  &nbsp;
+  <a href="https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
   </a>
 
   <br />
