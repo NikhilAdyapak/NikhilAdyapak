@@ -46,7 +46,10 @@
 I am a **Master's in Data Science student at the University of Wisconsin-Madison** (GPA 3.65/4.0). 
 Previously, I was a **Senior Software Engineer at Bosch (BGSW)**, where I specialized in **MLOps**, **Distributed Cloud Workflows**, and **Autonomous Driving (ADAS)** systems.
 
-Currently, I am serving as a **Graduate Teaching Assistant** for *CS 564: Database Management Systems*.
+**Actively seeking Summer 2026 Internships (May-Aug) and Co-ops (July-Dec) in ML Engineering, MLOps, and Data Science**
+
+
+Currently, I am serving as a **Graduate Teaching Assistant** for **CS 564: Database Management Systems**.
 
 ---
 
