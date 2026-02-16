@@ -1,37 +1,26 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20MLOps%20Specialist%20%7C%20Data%20Science%20%40%20UW-Madison&descAlignY=62&descAlign=50" alt="Header" width="100%"/>
+
+  <h3>
+    🚀 <a href="https://nikhiladyapak.github.io/"><b>View Full Portfolio (nikhiladyapak.github.io)</b></a> 🚀
+  </h3>
 </div>
+
 
 <div align="center">
   <br />
 
-  <a href="https://www.linkedin.com/in/nikhil-adyapak">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:nikhiladyapak31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=VAOBlIMAAAAJ">
-    <img src="https://img.shields.io/badge/Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-
-  <br />
-  <br />
-
-  <a href="https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
-  </a>
-  &nbsp;
   <a href="https://nikhiladyapak.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nikhil-adyapak">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
   </a>
-
   <br />
   <br />
 
