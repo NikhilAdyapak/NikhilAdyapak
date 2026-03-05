@@ -1,0 +1,370 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+% \usepackage{times} 
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{qrcode}
+\input{glyphtounicode}
+\usepackage[
+    % margin=2in,
+    top=0.75in,
+    bottom=0.8in,
+    left=0.8in,
+    right=0.8in
+    ]{geometry}
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+% Ensure that generated pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemNew}[1]{
+  \item\small{
+  \hspace{0.9em}#1 \vspace{-6pt}}
+  }
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \small#3 & \small #4 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \small #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=cyan,      
+    % urlcolor=[RGB]{153 51 51},
+    urlcolor=Blue,
+    pdftitle={Nikhil Adyapak Resume},
+}
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+% % --- FLOATING QR CODE BLOCK ---
+% \begin{tikzpicture}[remember picture, overlay]
+%   \node[anchor=north east, xshift=-0.35in, yshift=-0.30in] at (current page.north east) {
+%     \qrcode[height=0.5in]{https://nikhiladyapak.github.io}
+%   };
+% \end{tikzpicture}
+% \vspace*{-25pt} %
+
+\newcounter{boxlblcounter}  
+\newcommand{\makeboxlabel}[1]{\fbox{#1.}\hfill}% \hfill fills the label box
+\newenvironment{boxlabel}
+  {\begin{list}
+    {\arabic{boxlblcounter}}
+    {\usecounter{boxlblcounter}
+     \setlength{\labelwidth}{3em}
+     \setlength{\labelsep}{0em}
+     \setlength{\itemsep}{2pt}
+     \setlength{\leftmargin}{1.5cm}
+     \setlength{\rightmargin}{2cm}
+     \setlength{\itemindent}{0em} 
+     \let\makelabel=\makeboxlabel
+    }
+  }
+{\end{list}}
+
+%----------HEADING----------
+
+\begin{center}
+    \textbf{\Huge \scshape Nikhil Mandayam Adyapak} \\ \vspace{2.5pt}
+    \small \href{https://wa.me/917349304990?text=Hello!+I'm+<your+name>%2C+and+I've+found+you+via+your+resume.+I+am+reaching+out+because+<...>}{\underline{+1(608)395-5104}} $|$ \href{mailto:nikhiladyapak31@gmail.com}{\underline{nikhiladyapak31@gmail.com}} $|$ 
+    \href{https://www.linkedin.com/in/nikhil-adyapak/}{\underline{linkedin/in/nikhil-adyapak}} $|$
+    \href{https://nikhiladyapak.github.io/}{\underline{nikhiladyapak.github.io}} $|$
+    \href{https://scholar.google.com/citations?hl=en&user=VAOBlIMAAAAJ}{\underline{Google Scholar}}
+\end{center}
+
+%-----------SUMMARY-----------
+\section{Summary}
+  \small{
+  Master’s student in Data Science at UW-Madison with 2+ years of experience as a Senior Software Engineer building scalable MLOps platforms and distributed AI systems. Specialized in the engineering side of AI, including architecting cloud-native training pipelines on Azure Kubernetes Service (AKS) and optimizing GPU infrastructure. Proven track record of reducing training cycles and engineering efficient data retrieval systems for ADAS. \\ \textbf{Actively seeking Summer 2026 (May–Aug) and Co-op (July–Dec) opportunities in Machine Learning Engineering, MLOps, and Data Science.}
+  }
+
+%-----------EDUCATION-----------
+\section{Education}
+
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Wisconsin-Madison}{Sep 2025 - May 2027}
+      {Masters in Data Science}{GPA - 3.65/4.00}       
+      \resumeItem{\textbf{Coursework}: Machine Learning, Foundation Models, Database Design \& Implementation, Statistical Models, Statistical Methods, Statistical Inference for Data Science}
+    
+    \resumeSubheading
+      {PES University - Bengaluru, India }{Aug 2019 -- May 2023}
+      {Bachelor of Technology in Computer Science \& Engineering}{GPA - 3.78/4.00}
+      \resumeItem{\textbf{Specialization}: Machine Intelligence \& Data Science \\ \textbf{Coursework}: Algorithms, Data Structures, Data Science, Linear Algebra, Machine Learning, Big Data, Cloud Computing}
+    
+  \resumeSubHeadingListEnd
+
+%-----------SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Programming languages}{: Python, C, C++, Java, SQL, R} \\ \vspace{0.2pt}
+     \textbf{ML \& Statistics}{: PyTorch, TensorFlow, HuggingFace, Transformers, LLM, CNN, GAN, scikit-learn, OpenCV, matplotlib} \\ \vspace{0.2pt}
+     \textbf{MLOps \& Workflows}{: Ray, MLFlow, DVC, Argo Workflows, Azure ML Studio, Prometheus, Grafana} \\ \vspace{0.2pt}
+     \textbf{Cloud}{: Azure, AWS, AKS, Docker, Terraform, Azure DevOps, GitHub Actions, Linux} \\ \vspace{0.2pt}
+     \textbf{Databases \& Tools}{: ElasticSearch, PostgreSQL, MySQL, MongoDB, FastAPI, Flask, Streamlit, GitHub}
+     }}
+ \end{itemize}
+
+
+%-----------RESEARCH EXPERIENCE-----------
+\section{Research Experience}
+\resumeSubHeadingListStart
+    % Ensure the most recent one is in the present tense and remains in the past tense
+
+    \resumeSubheading
+      {Bosch Global Software Technologies (BGSW)}{Bengaluru, India}
+      {\textbf{Senior Software Engineer} – AI Systems for Advance Driver Assisted Systems (ADAS)}{Aug 2023 -- Aug 2025}
+       \resumeItemListStart
+       \resumeItem{Engineered \textbf{scene-understanding} image retrieval pipeline for \textbf{fine-grained dataset} generation: scene graphs (\textbf{hugging face transformers} + \textbf{ensemble of foundation models}) improving corner-cases for complex driving scenarios.}
+       \resumeItem{Applied \textbf{image-complexity estimation} for \textbf{cost-aware labeling}, cutting annotation effort and labeling costs by \textbf{30\%}.}\resumeItem{Researched optimal deployment strategies for multi-tenant \textbf{{Ray Clusters}} on \textbf{{on-premise workstations}} and \textbf{{Azure Kubernetes Service (AKS)}} to efficiently support \textbf{ML Workloads}.}
+       \resumeItem{Integrated \textbf{CLIP embedding} re-use with \textbf{80\%} cross-version alignment, avoiding full re-indexing of legacy image vectors.}\resumeItemListEnd\resumeSubheading
+      {Center for Information Security Forensics and Cyber Resilience, PES University}{Bengaluru, India}
+      {Summer Research Intern; Advisor: Prof. Vineetha B, Dr. Prasad B Honnavalli}{May 2021 -- Nov 2021}
+      \resumeItemListStart
+        \resumeItem{Research Intern in the \textbf{Cryptography Domain}, specifically in \textbf{{Cryptanalysis of Ciphers.}}}
+        \resumeItem{Developed Novel ways of Decrypting Columnar Transposition Ciphers without needing the encryption key or its length.}
+      \resumeItemListEnd
+      
+    \resumeSubHeadingListEnd
+
+%-----------WORK EXPERIENCE-----------
+\section{Industry Experience}
+  \resumeSubHeadingListStart
+    % Ensure the most recent one is in the present tense and remains in the past tense
+  
+    \resumeSubheading
+      {Bosch Global Software Technologies (BGSW)}{Bengaluru, India}
+      {\textbf{Senior Software Engineer} – AI Systems for Advance Driver Assisted Systems (ADAS)}{Aug 2023 -- Aug 2025}
+      \resumeItemListStart
+        \resumeItem{Delivered \textbf{MLOps platform} for pedestrian detection (\textbf{Azure ML Studio} + \textbf{MLFlow}) with end-to-end \textbf{ML lifecycle}; enabled \textbf{multi-GPU training} (\textbf{3x} faster) and cut GPU costs by \textbf{60\%}.}
+
+         \resumeItem{Designed and scaled a \textbf{Ray Cluster} based distributed \textbf{ML training} system on \textbf{Azure Kubernetes Service (AKS)}, reducing retraining cycles from \textbf{4 weeks} to \textbf{1 week} (\textbf{75\% faster}) and supporting \textbf{30+} teams.}
+
+
+        \resumeItem{Developed a \textbf{60M+} \textbf{image-search engine} using \textbf{CLIP embeddings} + \textbf{ElasticSearch}, enabling edge-case retreival and cutting reviewer triage from \textbf{4 hours} to \textbf{10 minutes} (\textbf{95\% efficiency gain}).}
+        \resumeItem{Deployed an on-prem \textbf{Ollama LLM} with a Python FastAPI wrapper, enabling private, team-wide LLM access (\textbf{150+ users}) with zero external data egress.}
+
+        \resumeItem{Streamlined \textbf{ML pipeline} provisioning on \textbf{AKS} (\textbf{Terraform, Helm, GitHub Actions, Argo}) for \textbf{multi-tenant} ADAS teams; integrated Prometheus monitoring/alerting, and reduced experiment setup from \textbf{3 days} to \textbf{5 minutes} (\textbf{99\%} efficiency gain) for \textbf{30+} teams.}
+        
+        \resumeItemListEnd
+        
+        \resumeSubSubheading{\textbf{Machine Learning Operations (MLOps) Intern}}{Jan 2023 -- May 2023 \& Jun 2022 -- Jul 2022}
+       \resumeItemListStart
+        \resumeItem{Built on-premise \textbf{MLOps} pipeline (\textbf{DVC} + \textbf{MLflow}), reducing model setup time from \textbf{1 Week} to \textbf{1 Day}, \textbf{85\%} faster.}
+        \resumeItem{Accelerated \textbf{multi-GPU} training for YOLOv5 and Detectron2 on \textbf{Azure ML Studio}, reducing training time by \textbf{67\%}.}
+        % \resumeItem{Enabled \textbf{multi-GPU}  training (YOLOv5, Detectron2) on \textbf{Azure ML Studio} cutting training time by \textbf{67\%}.}
+       \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%-----------PUBLICATIONS-----------
+\section{Projects and Publications}
+
+    \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+    \textbf{[1] Code Runtime Complexity Prediction} {- ERCICA (Springer), 2023 $|$ Python, TensorFlow, sklearn, Streamlit, NetworkX }\\
+    {Predicted Big-O runtime complexity of C/Java/Python code using static analysis and ML classification with BiLSTM over Abstract Syntax Trees graph embeddings on IBM CodeNet dataset (\textbf{Accuracy: 96\%}).} {\href{https://doi.org/10.1007/978-981-99-7622-5_26}{\textbf{[View Publication]}}}\vspace{0.5pt}
+
+    \textbf{[2] Sentinel-Edge AI} {- MadData Hackathon 2026 (Qualcomm Track) $|$ Llama 3.2, Langchain, RAG, FastAPI} \\
+    {Selected as 1 of 10 teams to build an air-gapped \textbf{Edge AI} security auditor on Snapdragon X Elite NPU; engineered a RAG pipeline with ChromaDB to detect legal risks and code vulnerabilities without cloud egress.} {\href{https://github.com/NikhilAdyapak/SentinelAI}{\textbf{[View Project]}}}\vspace{0.5pt}
+
+    \textbf{[3] MLOps POC pipeline for Pedestrian Detection} {- 2023 $|$ Python, DVC, MLFlow, DAG, Streamlit, SQLite, PyTorch} \\
+    {Implemented on-premise MLOps starter template with DVC + Detectron2 for end-to-end ML lifecycle.}{\href{https://github.com/NikhilAdyapak/DVC_Detectron2}{\textbf{[View Project]}}}}\vspace{0.5pt}
+     
+     \textbf{[4] Novel ways of decrypting transposition ciphers}, {- IEEE smartgencon, 2022} $|$ Python, Optimization, Natural Language\\
+     {Introduced cipher-breaking optimization techniques over columnar transposition ciphers. {\href{https://doi.org/10.1109/SMARTGENCON56628.2022.10083631}{\textbf{[View Publication]}}
+     }}
+     }
+    \end{itemize}
+
+% %-----------RESEARCH WORK-----------
+% \section{Research Projects}
+%     \resumeSubHeadingListStart
+
+%      \resumeSubheading{[1] \textbf{Scene Understanding:Drill-down approach for Image Retrieval of Detailed Scenes for ADAS }}{2024}{Authors: \underline{Nikhil M Adyapak}, Work done as part of Bosch Global Software Technologies POC}{}
+
+%      \resumeSubheading{[2] \textbf{Vector-Based Image Search Tool for Image Data Curation in ADAS}}{2024}{Image data curation using CLIP model and ElasticSearch for metadata and content-based search; part of BGSW POC}{}
+
+%      \resumeSubheading{[3] \textbf{Efficient Re-Utilization of CLIP model Vectors in image search for ADAS}}{2024}{Authors: \underline{Nikhil M Adyapak}, work done as part of BGSW Data Engineering Hackathon}{}
+        
+%     \resumeSubHeadingListEnd
+% \vspace{0.01pt}
+% \vspace{-8pt}
+
+%-----------TEACHING EXPERIENCE-----------
+\section{Teaching Experience}
+\resumeSubHeadingListStart
+    % Ensure the most recent one is in the present tense and remains in the past tense
+    \resumeSubheading
+      {Teaching Assistant, CS564: Database Management Systems}{Madison, WI, USA} 
+      {University of Wisconsin-Madison; Professor: Xiangyao Yu}{Jan 2026 -- May 2026}
+      
+      \resumeItem{Lead assignment sections, mentor students, and hold office hours to support database projects and assignments. (\textbf{SQL}, \textbf{Python}). Design and grade assignments, exams, and project rubrics; provide feedback to \textbf{200+} students to improve understanding of database design and query optimization. Assist course instructors with course logistics, and automated grading pipelines.}
+    
+    % Ensure the most recent one is in the present tense and remains in the past tense
+    \resumeSubheading
+      {Teaching Assistant, CS203: Statistics for Data Science}{Bengaluru, India} 
+      {PES University; Professors: Dr. Bharathi R, Swati M}{September 2022 -- Dec 2022}
+      
+      \resumeItem{Responsibilities included teaching, designing, and grading coursework, assignments, and projects. Delivered hands-on sessions on \textbf{{Data Science topics}} such as \textbf{{hypothesis testing, statistics, and supervised ML}}. Organized, managed, and served as a panelist for a Hackathon. Mentored \textbf{120+} students enrolled in the undergraduate level Data Science course.}
+    
+  \resumeSubHeadingListEnd
+  
+
+%-----------PRESENTATIONS-----------
+\section{Presentations and Competitions}
+  \resumeSubHeadingListStart
+
+  \resumeSubheading
+      {MadData Hackathon 2026 (Qualcomm Track)}{Madison, WI, USA}
+      {University of Wisconsin-Madison \& Qualcomm}{Feb 2026}
+      \resumeItemListStart
+        \resumeItem{Selected as \textbf{1 of 10 teams} to build privacy-first Edge AI applications on the \textbf{Snapdragon X Elite NPU}.}
+        \resumeItem{Developed "Sentinel-Edge AI," an air-gapped security auditor using local \textbf{Llama 3.2}, \textbf{Langchain} and \textbf{RAG} to analyze sensitive legal/code documents with zero cloud data egress.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {3 Minute Thesis (3MT) Competition}{Madison, WI, USA}
+      {University of Wisconsin-Madison}{Nov 2025}
+      \resumeItemListStart
+        \resumeItem{Selected to present research on "Generating Fine-Grained Datasets for Autonomous Driving" using vision foundation models.}
+        \resumeItem{Condensed technical research into a compelling 3-minute narrative for a general, non-technical audience.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%----------ACHIEVEMENTS--------
+\section{Professional Awards and Scholarships}
+    
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}cr}
+      \textbf{Data Engineering Department Meeting}, BGSW & Best Presenter Award/120+ team members & {2024} \\
+      \textbf{Data Engineering Department}, BGSW & Top Achiever Award/Ranked \textbf{1st} among 120+ Engineers & {2024} \\
+      \textbf{DAC Scholarship Awards},PES University & Distinction Award for Semesters 3 to 6 & {2022-2023} \\
+      \textbf{MRD Scholarship Awards},PES University & 40\% tuition fee scholarship for top 20\%/1100+ students & {2020}\\
+    \end{tabular*}
+
+%  %----------VOLUNTEERING EXPERIENCE--------
+% \section{Services and Volunteering Experience}
+
+% \resumeSubHeadingListStart
+% \resumeSubheading{Volunteer, BGSW CSR}{Bengaluru, India}{Bosch Global Software Technologies}{Oct 2023 -- Mar 2025}
+%       \vspace{6pt}
+% \\{Guided people with disabilities to crack interviews for their skill sets with Youth4Jobs NGO.}\\{Taught Computer Science and mentored underprivileged students at government schools.}\\{Helped create interactive educational materials for elementary schools students from rural childcare centers in India.}\\{Helped in conducting educational surveys at government boys’ homes for runaway children.}
+% \resumeSubHeadingListEnd
+
+%----------VOLUNTEERING EXPERIENCE--------
+\section{Services and Volunteering Experience}
+
+\resumeSubHeadingListStart
+  % BGSW Experience (Most recent & relevant - Keep detailed)
+  \resumeSubheading{Volunteer, BGSW CSR}{Bengaluru, India}{Bosch Global Software Technologies}{Oct 2023 -- Mar 2025}
+      \resumeItemListStart
+        \resumeItem{\textbf{Mentorship \& Inclusion:} Guided candidates with disabilities in interview preparation (Youth4Jobs) and taught Computer Science fundamentals to underprivileged students.}
+        \resumeItem{\textbf{Social Impact:} Assisted in agricultural initiatives where produce revenue funded monthly stipends for differently-abled individuals.}
+        \resumeItem{\textbf{Animal Welfare:} Supported habitat restoration for rescued elephants and assisted in adoption drives for abandoned dogs (CUPA).}
+        \resumeItem{\textbf{Community Outreach:} Created interactive educational materials for rural childcare centers and coached sports for students in government schools.}
+      \resumeItemListEnd
+
+  % PES University Experience (Older - Keep concise)
+  \resumeSubheading{Volunteer, CSR Club}{Bengaluru, India}{PES University}{Aug 2019 -- Dec 2019}
+      \resumeItemListStart
+        \resumeItem{\textbf{Infrastructure Renovation:} Participated in painting and restoring facilities at local government colleges for underprivileged students.}
+        \resumeItem{\textbf{Sustainability Drives:} Led campus afforestation initiatives, planting saplings to improve green cover in barren campus zones.}
+      \resumeItemListEnd
+\resumeSubHeadingListEnd
+  
+%-------------------------------------------
+
+\end{document}
