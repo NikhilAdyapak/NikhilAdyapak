@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ML%20Systems%20Engineer%20%7C%20MLOps%20Specialist%20%7C%20Data%20Science%20%40%20UW-Madison&descAlignY=62&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20MLOps%20Specialist%20%7C%20Data%20Science%20%40%20UW-Madison&descAlignY=62&descAlign=50" alt="Header" width="100%"/>
 
   <h3>
     🚀 <a href="https://nikhiladyapak.github.io/"><b>View Full Portfolio (nikhiladyapak.github.io)</b></a> 🚀
@@ -33,9 +33,9 @@
 ### 👨‍💻 **About Me**
 
 I am a **Master's in Data Science student at the University of Wisconsin-Madison** (GPA 3.65/4.0). 
-Previously, I was a **Senior Software Engineer at Bosch (BGSW)**, where I specialized in **MLOps**, **Distributed Cloud Workflows**, and **Autonomous Driving (ADAS)** systems.
+Previously, I was a **Senior Software Engineer (AI Systems)** at **Bosch (BGSW)**, where I specialized in **Core ML evaluation**, **Large-Scale Vector Retrieval**, and **MLOps infrastructure** for Autonomous Driving (ADAS) systems.
 
-**Actively seeking Summer 2026 Internships (May-Aug) and Co-ops (July-Dec) in ML Systems and Engineering, MLOps, and Data Science**
+**Actively seeking Summer 2026 Internships (May-Aug) and Co-ops (July-Dec) in ML, ML Systems and Engineering, MLOps, and Data Science**
 
 
 Currently, I am serving as a **Graduate Teaching Assistant** for **CS 564: Database Management Systems**.
@@ -94,8 +94,8 @@ Currently, I am serving as a **Graduate Teaching Assistant** for **CS 564: Datab
 | **Code Runtime Complexity Prediction** | **(Springer 2023)** Predicted Big-O complexity using static analysis and BiLSTM over AST graph embeddings with **96% accuracy**. | 📄 [**DOI Link**](https://doi.org/10.1007/978-981-99-7622-5_26)<br>💻 [**Core Repo**](https://github.com/NikhilAdyapak/CodeRuntimeComplexity)<br>🧪 [**Experiments**](https://github.com/NikhilAdyapak/Code_Complexity_Training_Experiments)<br>📊 [**Dataset**](https://github.com/NikhilAdyapak/Time_Complexity_Dataset) |
 | **MLOps Pipeline for Pedestrian Detection** | Built an end-to-end MLOps lifecycle using **DVC + MLflow** on Azure. Enabled multi-GPU training and reduced costs by 60%. | 💻 [**DVC Pipeline**](https://github.com/NikhilAdyapak/DVC_Detectron2) <br> 💻 [**MLOps Pedestrian Detection**](https://github.com/NikhilAdyapak/MLOps_Pipeline) <br> 💻 [**MLOps Repos**](https://github.com/Kora-Scenes)|
 | **Decrypting Transposition Ciphers** | **(IEEE SmartGenCon)** Developed optimization techniques to break columnar transposition ciphers using Python. |  📄 [**DOI Link**](https://doi.org/10.1109/SMARTGENCON56628.2022.10083631)<br>💻 [**View Repo**](https://github.com/NikhilAdyapak/SingleColumnarTranspositionKeylessDecryption)<br> |
-| **Distributed ML Training System** | Designed a **Ray Cluster** system on AKS, reducing retraining cycles by **75%** (4 weeks → 1 week) for 30+ teams. | 🔒 *Private (Work Experience)* |
-| **Scene Understanding Pipeline** | Engineered an image retrieval pipeline using **Scene Graphs** (Hugging Face Transformers + Foundation Models) to generate fine-grained datasets, improving corner-case discovery for complex driving scenarios.| 🔒 *Private (Work Experience)* |
+| **Distributed ML Training System** | Designed and scaled a **Ray Cluster** system on AKS, reducing retraining cycles by **75%** (4 weeks → 1 week) for 30+ teams. | 🔒 *Private (Work Experience)* |
+| **Scene Understanding Pipeline** | Engineered a retrieval pipeline using foundation models (**Mask2Former, Depth-Anything, OWL-ViT**) to generate scene graphs for fine-grained dataset extraction.| 🔒 *Private (Work Experience)* |
 
 ---
 
@@ -104,6 +104,10 @@ Currently, I am serving as a **Graduate Teaching Assistant** for **CS 564: Datab
 * **Distributed Systems:** Designed and scaled a Ray Cluster on Azure Kubernetes Service (AKS), supporting 30+ teams.
 * **LLM Security:** Deployed an on-prem Ollama LLM with a Python FastAPI wrapper, ensuring zero external data egress for 150+ users.
 * **Scene Understanding & GenAI:** Engineered an image retrieval pipeline using **Scene Graphs** (Hugging Face + Foundation Models), improving corner-case generation for complex driving scenarios.
+* **Core Machine Learning:** Fine-tuned **ESRGAN** models for 4x image resolution and benchmarked **Occlusion Estimation** on the **nuScenes** dataset via custom LiDAR-depth evaluation pipelines.
+* **Large-Scale Retrieval:** Architected a containerized **FastAPI** backend for a **60M+ vector image-search engine** utilizing **CLIP embeddings** and ElasticSearch.
+ * **LLM Security:** Deployed an on-prem Ollama LLM with a Python FastAPI wrapper, ensuring zero external data egress for 150+ users.
+* **MLOps Platforms:** Engineered **Azure DevOps** CI/CD pipelines to automate Docker model deployments to Azure Container Registry and managed distributed ML workloads on Kubernetes (AKS).
 
 ---
 
