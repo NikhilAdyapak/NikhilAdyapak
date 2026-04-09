@@ -1,0 +1,210 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{qrcode}
+\input{glyphtounicode}
+\usepackage[
+    top=0.75in,
+    bottom=0.8in,
+    left=0.8in,
+    right=0.8in
+    ]{geometry}
+
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemNew}[1]{
+  \item\small{
+  \hspace{0.9em}\textbf{#1} \vspace{-6.5pt}}
+  }
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \small#3 & \small #4 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \small #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=cyan,      
+    urlcolor=Blue,
+    pdftitle={Nikhil Adyapak Resume},
+}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Huge \scshape Nikhil Adyapak} \\ \vspace{2.5pt}
+    \small \href{https://wa.me/917349304990}{\underline{+1(608)395-5104}} $|$ \href{mailto:nikhiladyapak31@gmail.com}{\underline{nikhiladyapak31@gmail.com}} $|$ 
+    \href{https://www.linkedin.com/in/nikhil-adyapak/}{\underline{linkedin.com/in/nikhil-adyapak}} $|$
+    \href{https://nikhiladyapak.github.io}{\underline{nikhiladyapak.github.io}} $|$
+    \href{https://scholar.google.com/citations?hl=en&user=VAOBlIMAAAAJ}{\underline{Google Scholar}} \\ \vspace{3pt}
+    \textbf{Seeking 2026 Summer Internship/Fall Co-op in ML, ML Systems, MLOps or Data Science}
+\end{center}
+
+\vspace{-11pt}
+%-----------EDUCATION-----------
+\section{Education}
+
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Wisconsin-Madison}{Sep 2025 - May 2027}
+      {Masters in Data Science}{GPA - 3.65/4.00}      
+      \resumeItem{\textbf{Coursework}: Machine Learning, Foundation Models, Database Design \& Implementation, Statistical Models, Statistical Methods, Statistical Inference for Data Science $|$ \textbf{Teaching Assistantship}: CS564 Database Management Systems}
+    
+    \resumeSubheading
+      {PES University - Bengaluru, India }{Aug 2019 -- May 2023}
+      {Bachelor of Technology in Computer Science \& Engineering}{GPA - 3.78/4.00}
+      \resumeItem{\textbf{Specialization}: Machine Intelligence \& Data Science $|$ \textbf{Teaching Assistantship}: CS203 Statistics for Data Science \\ \textbf{Coursework}: Algorithms, Data Structures, Data Science, Linear Algebra, Machine Learning, Big Data, Cloud Computing }
+    
+  \resumeSubHeadingListEnd
+
+%-----------WORK EXPERIENCE-----------
+\section{Work Experience}
+  \resumeSubHeadingListStart
+  
+    \resumeSubheading
+      {Bosch Global Software Technologies (BGSW)}{Bengaluru, India}
+      {\textbf{Senior Software Engineer} – AI Systems for Advance Driver Assisted Systems (ADAS)}{Aug 2023 -- Aug 2025}
+      
+      \resumeItemNew{MLOps (ML in Operations) \& Distributed Cloud Workflows}
+      \resumeItemListStart
+        \resumeItem{Delivered \textbf{MLOps platform} for pedestrian detection (\textbf{Azure ML Studio} + \textbf{MLFlow}) with end-to-end \textbf{ML lifecycle}; enabled \textbf{multi-GPU training} (\textbf{3x} faster) and cut GPU costs by \textbf{60\%}.}
+        
+        \resumeItem{Designed and scaled a \textbf{Ray Cluster} based distributed \textbf{ML training} system on \textbf{Azure Kubernetes Service (AKS)}, reducing retraining cycles from \textbf{4 weeks} to \textbf{1 week} (\textbf{75\% faster}) and supporting \textbf{30+} teams.}
+
+        \resumeItem{Automated \textbf{ML pipeline} CI/CD workflows on \textbf{AKS} (\textbf{Terraform, Helm, Argo, GitHub Actions}); integrated \textbf{Prometheus} alerting, accelerating experiment setup for \textbf{multi-tenant} ADAS teams from \textbf{3 days} to \textbf{5 minutes}.}
+        
+        \resumeItem{Deployed on-prem \textbf{Ollama LLM} with Python FastAPI wrapper, enabling private, team-wide LLM access (\textbf{150+ users}), zero external data egress.}
+      \resumeItemListEnd
+
+      \resumeItemNew{Core Machine Learning \& Model Evaluation}
+      \resumeItemListStart
+        \resumeItem{Enhanced ADAS image dataset resolution by \textbf{4x} utilizing \textbf{ESRGAN} transfer learning on curated datasets.}
+        \resumeItem{Benchmarked \textbf{Occlusion Estimation} models on \textbf{nuScenes} dataset by engineering LiDAR-depth evaluation pipelines.}
+      \resumeItemListEnd
+
+      \resumeItemNew{Large-Scale Image Retrieval \& Dataset Generation for Autonomous Driving}
+      \resumeItemListStart
+        \resumeItem{Architected a containerized \textbf{FastAPI} backend for a \textbf{60M+} \textbf{vector image-search engine}, deploying \textbf{CLIP embeddings} and \textbf{ElasticSearch} to reduce edge-case triage by \textbf{95\%} (4 hours to 10 mins).} 
+
+        \resumeItem{Engineered \textbf{scene-understanding} image retrieval pipeline using foundation models (\textbf{Mask2Former, Depth-Anything, OWL-ViT, CLIP}) to generate scene graphs, curating fine-grained datasets for ADAS corner cases.}
+
+        \resumeItem{Integrated \textbf{CLIP embedding} re-use with \textbf{80\%} cross-version alignment, avoiding full re-indexing of legacy image vectors.}
+      \resumeItemListEnd
+      
+    \resumeSubSubheading{\textbf{Machine Learning Operations (MLOps) Intern}}{Jan 2023 -- May 2023 $|$ Jun 2022 -- Jul 2022}
+       \resumeItemListStart
+
+        \resumeItem{Built on-premise \textbf{MLOps} pipelines (\textbf{DVC}, \textbf{MLflow}) and accelerated \textbf{multi-GPU} object detection training (YOLOv5, Detectron2) on \textbf{Azure ML Studio}, cutting setup time from \textbf{1 week} to \textbf{1 day} (\textbf{85\% faster}) and training time by \textbf{67\%}.}
+        \resumeItem{Containerized models (\textbf{Docker}), built CI/CD using Azure DevOps automating deployment to Azure Container Registry.}
+       \resumeItemListEnd
+       
+    \resumeSubHeadingListEnd
+
+%-----------SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Programming languages}{: Python, C, C++, Java, SQL, R} \\ \vspace{0.2pt}
+     \textbf{ML \& Statistics}{: PyTorch, TensorFlow, HuggingFace, Transformers, LLM, CNN, GAN, scikit-learn, OpenCV, matplotlib} \\ \vspace{0.2pt}
+     \textbf{MLOps \& Workflows}{: Ray, MLFlow, DVC, Argo Workflows, Azure ML Studio, Prometheus, Grafana} \\ \vspace{0.2pt}
+     \textbf{Cloud}{: Azure, AWS, AKS, Docker, Terraform, Azure DevOps, GitHub Actions, Linux} \\ \vspace{0.2pt}
+     \textbf{Databases \& Tools}{: ElasticSearch, PostgreSQL, MySQL, MongoDB, FastAPI, Flask, Streamlit, GitHub}
+     }}
+ \end{itemize}
+
+%-----------PUBLICATIONS-----------
+\section{Projects and Publications}
+
+    \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+    \textbf{[1] Code Runtime Complexity Prediction} {- ERCICA (Springer), 2023 $|$ Python, TensorFlow, sklearn, Streamlit, NetworkX }\\
+    {Predicted Big-O runtime complexity of C/Java/Python code using static analysis and ML classification with BiLSTM over Abstract Syntax Trees graph embeddings on IBM CodeNet dataset (\textbf{Accuracy: 96\%}).} {\href{https://doi.org/10.1007/978-981-99-7622-5_26}{\textbf{[View Publication]}}}\vspace{0.5pt}
+
+    \textbf{[2] Sentinel-Edge AI} {- MadData Hackathon 2026 (Qualcomm Track) $|$ Llama 3.2, Langchain, RAG, FastAPI} \\
+    {Selected as \textbf{1 of 10 teams} to build an air-gapped \textbf{Edge AI} security auditor on Snapdragon X Elite NPU; engineered a RAG pipeline with ChromaDB to detect legal risks and code vulnerabilities without cloud egress.} {\href{https://github.com/NikhilAdyapak/SentinelAI}{\textbf{[View Project]}}}\vspace{0.5pt}
+
+    \textbf{[3] MLOps POC pipeline for Pedestrian Detection} {- 2023 $|$ Python, DVC, MLFlow, DAG, Streamlit, SQLite, PyTorch} \\
+    {Implemented on-premise MLOps starter template with DVC + Detectron2 for end-to-end ML lifecycle.}{\href{https://github.com/NikhilAdyapak/DVC_Detectron2}{\textbf{[View Project]}}}}\vspace{0.5pt}
+
+     \textbf{[4] Novel ways of decrypting transposition ciphers}, {- IEEE smartgencon, 2022} $|$ Python, Optimization, Natural Language\\
+     {Introduced cipher-breaking optimization techniques over columnar transposition ciphers.}
+     {\href{https://doi.org/10.1109/SMARTGENCON56628.2022.10083631}{\textbf{[View Publication]}}}
+     }
+    \end{itemize}
+
+\end{document}
+
