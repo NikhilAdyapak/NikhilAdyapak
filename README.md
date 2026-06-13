@@ -92,15 +92,6 @@ I am also a **Master's in Data Science student at the University of Wisconsin-Ma
 
 ### 🚀 **Featured Projects & Publications**
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=o6RKIUL6Ju0" target="_blank">
-    <img src="https://img.youtube.com/vi/o6RKIUL6Ju0/hqdefault.jpg" alt="Sentinel-Edge AI Demo - click to watch" width="480"/>
-    <br/>
-    <b>▶️ Sentinel-Edge AI: Watch the Demo</b>
-  </a>
-</div>
-<br/>
-
 | Project | Description | Code & Publications |
 | :--- | :--- | :--- |
 | **Sentinel-Edge AI** | **(MadData 26 Hackathon, Qualcomm Track)** Selected as **1 of 10 teams** from 350+ registrants. Air-gapped **Edge AI** security auditor running 100% on-device on the **Snapdragon X Elite NPU**. Local RAG pipeline (Llama 3.2 + LangChain + ChromaDB) detects legal risks and code vulnerabilities with zero cloud egress. | 📺 [**Video Demo**](https://www.youtube.com/watch?v=o6RKIUL6Ju0) <br> 🏆 [**Devpost**](https://devpost.com/software/sentinel-edge-ai-6f4zkc?ref_content=user-portfolio&ref_feature=in_progress) <br> 💻 [**View Repo**](https://github.com/NikhilAdyapak/SentinelAI) |
