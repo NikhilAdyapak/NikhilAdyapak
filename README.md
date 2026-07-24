@@ -47,46 +47,61 @@ I am also a **Master's in Data Science student at the University of Wisconsin-Ma
 
 ### 🛠️ **Tech Stack**
 
-**Programming Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+**Languages**
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="46" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="46" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="46" />
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" height="46" />
+  <img src="https://cdn.simpleicons.org/postgresql/4479A1" alt="SQL" height="46" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" height="46" />
+</p>
 
-**ML & Statistics** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+**ML & Statistics**
+<p>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="46" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="46" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" height="46" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-Learn" height="46" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" height="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="46" />
+</p>
 
-**MLOps & Workflows** ![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-![Argo](https://img.shields.io/badge/Argo-DF5A2D?style=for-the-badge&logo=argo&logoColor=white)
-![Azure ML Studio](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+**MLOps & Workflows**
+<p>
+  <img src="https://cdn.simpleicons.org/ray/028CF0" alt="Ray" height="46" />
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" height="46" />
+  <img src="https://cdn.simpleicons.org/dvc/945DD6" alt="DVC" height="46" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="Argo" height="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure ML Studio" height="46" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" height="46" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" height="46" />
+</p>
 
-**Cloud & Infrastructure** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Cloud & Infrastructure**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="46" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="GCP" height="46" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="46" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="46" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" height="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" height="46" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="46" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="46" />
+</p>
 
-**Databases & Tools** ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Databases & Tools**
+<p>
+  <img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="ElasticSearch" height="46" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" height="46" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="46" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="46" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="46" />
+  <img src="https://cdn.simpleicons.org/flask/888888" alt="Flask" height="46" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" height="46" />
+  <img src="https://cdn.simpleicons.org/github/888888" alt="GitHub" height="46" />
+</p>
 
 ---
 
