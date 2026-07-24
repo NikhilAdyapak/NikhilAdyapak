@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ML%20Systems%20%7C%20MLOps%20%7C%20AI%20Intern%20%40%20Ciroos%20%7C%20MS%20Data%20Science%20%40%20UW-Madison&descAlignY=62&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ML%20Systems%20%7C%20MLOps%20%7C%20AI%20Intern%20%40%20Ciroos%20%7C%20Ex-Senior%20SWE%20%40%20Bosch%20%7C%20MS%20Data%20Science%20%40%20UW-Madison&descAlignY=62&descAlign=50" alt="Header" width="100%"/>
 
   <h3>
     🚀 <a href="https://nikhiladyapak.github.io/"><b>View Full Portfolio (nikhiladyapak.github.io)</b></a> 🚀
@@ -11,19 +11,19 @@
   <br />
 
   <a href="https://nikhiladyapak.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-0b1120?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0b1120" alt="Portfolio"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nikhil-adyapak">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/nikhil-adyapak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  <a href="mailto:nikhiladyapak31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-1f6feb?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
   </a>
-  &nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=VAOBlIMAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/>
+  <a href="https://scholar.google.com/citations?hl=en&user=VAOBlIMAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <br />
   <br />
@@ -40,7 +40,7 @@ I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I eval
 
 I am also a **Master's in Data Science student at the University of Wisconsin-Madison** (GPA 3.66/4.0). Previously, I spent 2+ years as a **Senior Software Engineer (AI Systems)** at **Bosch (BGSW)**, working on **MLOps infrastructure**, **distributed training (Ray on AKS)**, and **scene-understanding pipelines** for Autonomous Driving (ADAS).
 
-> 🎯 **Actively seeking 2027 Full-Time roles in Machine Learning Engineering, ML Systems, MLOps, and Data Science.**
+> 🎯 **Actively seeking 2027 Full-Time roles in Machine Learning Engineering, ML Systems, Software, MLOps, and Data Science.**
 > 📫 Reach me at **nikhiladyapak31@gmail.com**
 
 ---
@@ -48,60 +48,77 @@ I am also a **Master's in Data Science student at the University of Wisconsin-Ma
 ### 🛠️ **Tech Stack**
 
 **Languages**
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="46" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="46" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="46" />
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" height="46" />
-  <img src="https://cdn.simpleicons.org/postgresql/4479A1" alt="SQL" height="46" />
-  <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" height="46" />
-</p>
 
-**ML & Statistics**
-<p>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="46" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="46" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" height="46" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-Learn" height="46" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="46" />
-</p>
+<table>
+<tr>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" /><br /><sub><b>Python</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="C" /><br /><sub><b>C</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++" /><br /><sub><b>C++</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br /><sub><b>Java</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/postgresql/4479A1" height="40" alt="SQL" /><br /><sub><b>SQL</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="R" /><br /><sub><b>R</b></sub></td>
+</tr>
+</table>
 
-**MLOps & Workflows**
-<p>
-  <img src="https://cdn.simpleicons.org/ray/028CF0" alt="Ray" height="46" />
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" height="46" />
-  <img src="https://cdn.simpleicons.org/dvc/945DD6" alt="DVC" height="46" />
-  <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="Argo" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure ML Studio" height="46" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" height="46" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" height="46" />
-</p>
+**ML &amp; Statistics**
 
-**Cloud & Infrastructure**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="46" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="GCP" height="46" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="46" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="46" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" height="46" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="46" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="46" />
-</p>
+<table>
+<tr>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" /><br /><sub><b>PyTorch</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow" /><br /><sub><b>TensorFlow</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face" /><br /><sub><b>Hugging Face</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-Learn" /><br /><sub><b>Scikit-Learn</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="OpenCV" /><br /><sub><b>OpenCV</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" /><br /><sub><b>Matplotlib</b></sub></td>
+</tr>
+</table>
 
-**Databases & Tools**
-<p>
-  <img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="ElasticSearch" height="46" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" height="46" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="46" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="46" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="46" />
-  <img src="https://cdn.simpleicons.org/flask/888888" alt="Flask" height="46" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" height="46" />
-  <img src="https://cdn.simpleicons.org/github/888888" alt="GitHub" height="46" />
-</p>
+**MLOps &amp; Workflows**
+
+<table>
+<tr>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/ray/028CF0" height="40" alt="Ray" /><br /><sub><b>Ray</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40" alt="MLflow" /><br /><sub><b>MLflow</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/dvc/945DD6" height="40" alt="DVC" /><br /><sub><b>DVC</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40" alt="Argo" /><br /><sub><b>Argo</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure ML" /><br /><sub><b>Azure ML</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" alt="Prometheus" /><br /><sub><b>Prometheus</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="Grafana" /><br /><sub><b>Grafana</b></sub></td>
+</tr>
+</table>
+
+**Cloud &amp; Infrastructure**
+
+<table>
+<tr>
+  <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" /><br /><sub><b>Azure</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" /><br /><sub><b>AWS</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="GCP" /><br /><sub><b>GCP</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes" /><br /><sub><b>Kubernetes</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="Terraform" /><br /><sub><b>Terraform</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" /><br /><sub><b>Azure DevOps</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="Actions" /><br /><sub><b>Actions</b></sub></td>
+</tr>
+<tr>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
+</tr>
+</table>
+
+**Databases &amp; Tools**
+
+<table>
+<tr>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/elasticsearch/005571" height="40" alt="ElasticSearch" /><br /><sub><b>ElasticSearch</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/flask/888888" height="40" alt="Flask" /><br /><sub><b>Flask</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="Streamlit" /><br /><sub><b>Streamlit</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/github/888888" height="40" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+</tr>
+</table>
 
 ---
 
