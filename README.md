@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Intern%20%40%20Ciroos%20%7C%20Ex-Senior%20SWE%20%40%20Bosch%20%7C%20MS%20Data%20Science%20%40%20UW-Madison&descSize=18&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ML%20Systems%20%7C%20MLOps%20%7C%20AI%20Intern%20%40%20Ciroos%20%7C%20Ex-Senior%20SWE%20%40%20Bosch%20%7C%20MS%20Data%20Science%20%40%20UW-Madison&descSize=16&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
 
   <h3>
     🚀 <a href="https://nikhiladyapak.github.io/"><b>View Full Portfolio (nikhiladyapak.github.io)</b></a> 🚀
