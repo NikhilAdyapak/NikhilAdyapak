@@ -36,7 +36,7 @@
 
 ### 👨‍💻 **About Me**
 
-I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I evaluate AI-driven SRE agents by simulating infrastructure faults across Kubernetes and multi-cloud environments (AWS, GCP, Azure), and author instruction pipelines that guide agents through Root Cause Analysis and fault diagnosis.
+I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I evaluate AI-driven SRE agents by simulating infrastructure faults across Kubernetes and multi-cloud environments (AWS, GCP, Azure), and author instruction pipelines that guide agents through Root Cause Analysis and fault diagnosis. I am also starting to build a Graph RAG context engine (Graphiti + Neo4j) to ground agent answers in incident history.
 
 I am also a **Master's in Data Science student at the University of Wisconsin-Madison** (GPA 3.66/4.0). Previously, I spent 2+ years as a **Senior Software Engineer (AI Systems)** at **Bosch (BGSW)**, working on **MLOps infrastructure**, **distributed training (Ray on AKS)**, and **scene-understanding pipelines** for Autonomous Driving (ADAS).
 
@@ -98,7 +98,7 @@ I am also a **Master's in Data Science student at the University of Wisconsin-Ma
   <td align="center" width="92"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
   <td align="center" width="92"><img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="Terraform" /><br /><sub><b>Terraform</b></sub></td>
   <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" /><br /><sub><b>Azure DevOps</b></sub></td>
-  <td align="center" width="92"><img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="Actions" /><br /><sub><b>Actions</b></sub></td>
+  <td align="center" width="92"><img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions" /><br /><sub><b>GitHub Actions</b></sub></td>
 </tr>
 <tr>
   <td align="center" width="92"><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
