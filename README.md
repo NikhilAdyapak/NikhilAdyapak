@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ML%20Systems%20%7C%20MLOps%20%7C%20AI%20Intern%20%40%20Ciroos%20%7C%20Ex-Senior%20SWE%20%40%20Bosch%20%7C%20MS%20Data%20Science%20%40%20UW-Madison&descAlignY=62&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Systems%20%7C%20MLOps%20%7C%20Data%20Science&descAlignY=62&descAlign=50" alt="Header" width="100%"/>
+
+  <p><b>AI Intern @ Ciroos&nbsp; ·&nbsp; Ex-Senior Software Engineer @ Bosch&nbsp; ·&nbsp; MS Data Science @ UW-Madison</b></p>
 
   <h3>
     🚀 <a href="https://nikhiladyapak.github.io/"><b>View Full Portfolio (nikhiladyapak.github.io)</b></a> 🚀
@@ -36,7 +38,7 @@
 
 ### 👨‍💻 **About Me**
 
-I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I evaluate AI-driven SRE agents by simulating infrastructure faults across Kubernetes and multi-cloud environments (AWS, GCP, Azure), and author instruction pipelines that guide agents through Root Cause Analysis and fault diagnosis. I am also starting to build a Graph RAG context engine (Graphiti + Neo4j) to ground agent answers in incident history.
+I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I evaluate AI-driven SRE agents across Kubernetes and multi-cloud environments (AWS, GCP, Azure), and author instruction pipelines that guide agents through Root Cause Analysis and fault diagnosis. I am also starting to build a Graph RAG context engine (Graphiti + Neo4j) to ground agent answers in incident history.
 
 I am also a **Master's in Data Science student at the University of Wisconsin-Madison** (GPA 3.66/4.0). Previously, I spent 2+ years as a **Senior Software Engineer (AI Systems)** at **Bosch (BGSW)**, working on **MLOps infrastructure**, **distributed training (Ray on AKS)**, and **scene-understanding pipelines** for Autonomous Driving (ADAS).
 
@@ -139,7 +141,7 @@ I am also a **Master's in Data Science student at the University of Wisconsin-Ma
 ### ⚡ **Professional Highlights**
 
 * **Graph RAG Context Engine (Ciroos):** Productionized a Graph RAG context engine on a temporal knowledge-graph (**Graphiti + Neo4j**) that sources SRE agent incident answers from team chat and investigation history (**87% accuracy**).
-* **AI Agent Evaluation (Ciroos):** Conduct evals of AI-driven SRE agents by simulating infrastructure faults across Kubernetes and multi-cloud (AWS, GCP, Azure); author instruction pipelines for accurate Root Cause Analysis and fault diagnosis.
+* **AI Agent Evaluation (Ciroos):** Conduct evals of AI-driven SRE agents across Kubernetes and multi-cloud (AWS, GCP, Azure); author instruction pipelines for accurate Root Cause Analysis and fault diagnosis.
 * **Distributed Training (Bosch):** Designed and scaled a **Ray Cluster** on Azure Kubernetes Service (AKS), reducing retraining cycles from 4 weeks to 1 week for 30+ teams.
 * **MLOps Platforms (Bosch):** Automated ML pipeline CI/CD on AKS (**Terraform, Helm, Argo, GitHub Actions**) with Prometheus alerting, cutting experiment setup from 3 days to 5 minutes.
 * **Large-Scale Retrieval (Bosch):** Architected a containerized **FastAPI** backend for a **60M+ vector image-search engine** using **CLIP embeddings** and ElasticSearch, reducing edge-case triage by 95%.
