@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Systems%20%7C%20MLOps%20%7C%20Data%20Science&descAlignY=62&descAlign=50" alt="Header" width="100%"/>
-
-  <p><b>AI Intern @ Ciroos&nbsp; ·&nbsp; Ex-Senior Software Engineer @ Bosch&nbsp; ·&nbsp; MS Data Science @ UW-Madison</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Nikhil%20Adyapak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Intern%20%40%20Ciroos%20%7C%20Ex-Senior%20SWE%20%40%20Bosch%20%7C%20MS%20Data%20Science%20%40%20UW-Madison&descSize=18&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
 
   <h3>
     🚀 <a href="https://nikhiladyapak.github.io/"><b>View Full Portfolio (nikhiladyapak.github.io)</b></a> 🚀
@@ -38,7 +36,7 @@
 
 ### 👨‍💻 **About Me**
 
-I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I evaluate AI-driven SRE agents across Kubernetes and multi-cloud environments (AWS, GCP, Azure), and author instruction pipelines that guide agents through Root Cause Analysis and fault diagnosis. I am also starting to build a Graph RAG context engine (Graphiti + Neo4j) to ground agent answers in incident history.
+I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I evaluate AI-driven SRE agents across Kubernetes and multi-cloud environments (AWS, GCP, Azure), and author instruction pipelines that guide agents through Root Cause Analysis and fault diagnosis. I also built a Graph RAG context engine (Graphiti + Neo4j) that grounds agent answers in incident history.
 
 I am also a **Master's in Data Science student at the University of Wisconsin-Madison** (GPA 3.66/4.0). Previously, I spent 2+ years as a **Senior Software Engineer (AI Systems)** at **Bosch (BGSW)**, working on **MLOps infrastructure**, **distributed training (Ray on AKS)**, and **scene-understanding pipelines** for Autonomous Driving (ADAS).
 
