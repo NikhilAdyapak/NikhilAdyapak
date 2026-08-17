@@ -38,7 +38,7 @@
 
 I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I evaluate AI-driven SRE agents across Kubernetes and multi-cloud environments (AWS, GCP, Azure), and author instruction pipelines that guide agents through Root Cause Analysis and fault diagnosis. I also built a Graph RAG context engine (Graphiti + Neo4j) that grounds agent answers in incident history.
 
-I am also a **Master's in Data Science student at the University of Wisconsin-Madison** (GPA 3.66/4.0). Previously, I spent 2+ years as a **Senior Software Engineer (AI Systems)** at **Bosch (BGSW)**, working on **MLOps platforms**, **distributed training (Ray on AKS)**, and **scene-understanding pipelines** for Autonomous Driving (ADAS).
+I am also a **Master's in Data Science student at the University of Wisconsin-Madison** (GPA 3.68/4.0). Previously, I spent 2+ years as a **Senior Software Engineer (AI Systems)** at **Bosch (BGSW)**, working on **MLOps platforms**, **distributed training (Ray on AKS)**, and **scene-understanding pipelines** for Autonomous Driving (ADAS).
 
 > 🎯 **Actively seeking 2027 Full-Time roles in Machine Learning Engineering, ML Systems, Software, MLOps, and Data Science. Available June 2027.**
 > 📫 Reach me at **nikhiladyapak31@gmail.com**
