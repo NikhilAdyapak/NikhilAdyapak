@@ -132,7 +132,7 @@ I am also a **Master's in Data Science student at the University of Wisconsin-Ma
 | **Decrypting Transposition Ciphers** | **(IEEE SmartGenCon 2022)** Optimization techniques to break columnar transposition ciphers without prior knowledge of the encryption key. | 📄 [**DOI Link**](https://doi.org/10.1109/SMARTGENCON56628.2022.10083631)<br>💻 [**View Repo**](https://github.com/NikhilAdyapak/SingleColumnarTranspositionKeylessDecryption) |
 | **Distributed ML Training System** | Designed and scaled a **Ray Cluster** system on AKS, reducing retraining cycles by **75%** (4 weeks → 1 week) for 30+ ADAS teams at Bosch. | 🔒 *Private (Work Experience)* |
 | **Scene Understanding Pipeline** | Engineered a retrieval pipeline using foundation models (**Mask2Former, Depth-Anything, OWL-ViT, CLIP**) to generate scene graphs for fine-grained ADAS dataset curation. | 🔒 *Private (Work Experience)* |
-| **Big Talk** ⚡ | **1-hour speed build** at UW-Madison **Claude Hacks**: real-time matching app using **Claude AI (Anthropic SDK)** and **FastAPI** to find non-obvious thematic connections between people in a room. | 💻 [**View Repo**](https://github.com/NikhilAdyapak/bigtalk-claudehacks) |
+| **Big Talk** ⚡ | **1-hour speed build** at UW-Madison **Claude Hacks**: real-time matching app using **Claude AI (Anthropic SDK)** and **FastAPI** to suggest what two people in a room have in common. | 💻 [**View Repo**](https://github.com/NikhilAdyapak/bigtalk-claudehacks) |
 
 ---
 
