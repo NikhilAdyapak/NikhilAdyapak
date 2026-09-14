@@ -36,7 +36,7 @@
 
 ### 👨‍💻 **About Me**
 
-I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I evaluate AI-driven SRE agents across cloud environments, and author instruction pipelines that guide agents through Root Cause Analysis and fault diagnosis. I also built a Graph RAG context engine that grounds agent answers in incident history.
+I am an **AI Intern at [Ciroos](https://ciroos.ai)** (SF Bay Area), where I evaluate AI-driven SRE agents across Kubernetes and multi-cloud (AWS, GCP, Azure), and author instruction pipelines that guide them through Root Cause Analysis and fault diagnosis. I build the retrieval that grounds their answers in incident history: a Graph RAG context engine, a graph-free vector RAG alternative, and now agentic search.
 
 I am also a **Master's in Data Science student at the University of Wisconsin-Madison** (GPA 3.68/4.0). Previously, I spent 2+ years as a **Senior Software Engineer (AI Systems)** at **Bosch (BGSW)**, working on **MLOps platforms**, **distributed training (Ray on AKS)**, and **scene-understanding pipelines** for Autonomous Driving (ADAS).
 
@@ -139,8 +139,8 @@ I am also a **Master's in Data Science student at the University of Wisconsin-Ma
 ### ⚡ **Professional Highlights**
 
 * **Graph RAG Context Engine (Ciroos):** Productionized a Graph RAG context engine on a temporal knowledge-graph that sources SRE agent incident answers from team chat and investigation history.
-* **Graph-free RAG (Ciroos):** Prototyped a graph-free RAG alternative that significantly lowered data ingestion cost over incident chats.
-* **AI Agent Evaluation (Ciroos):** Conduct evals of AI-driven SRE agents across cloud environments; author instruction pipelines for accurate Root Cause Analysis and fault diagnosis.
+* **Graph-free Vector RAG (Ciroos):** Prototyped a graph-free vector RAG alternative that reached higher retrieval accuracy at significantly lower data ingestion cost over incident chats.
+* **AI Agent Evaluation (Ciroos):** Conduct evals of AI-driven SRE agents across Kubernetes and multi-cloud (AWS, GCP, Azure); author instruction pipelines for accurate Root Cause Analysis and fault diagnosis.
 * **Distributed Training (Bosch):** Designed and scaled a **Ray Cluster** on Azure Kubernetes Service (AKS), reducing retraining cycles from 4 weeks to 1 week for 30+ teams.
 * **MLOps Platforms (Bosch):** Automated ML pipeline CI/CD on AKS (**Terraform, Helm, Argo, GitHub Actions**) with Prometheus alerting, cutting experiment setup from 3 days to 5 minutes.
 * **Large-Scale Retrieval (Bosch):** Architected a containerized **FastAPI** backend for a **60M+ vector image-search engine** using **CLIP embeddings** and ElasticSearch, reducing edge-case triage by 95%.
