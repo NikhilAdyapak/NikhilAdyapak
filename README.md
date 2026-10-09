@@ -138,7 +138,8 @@ I am also a **Master's in Data Science student at the University of Wisconsin-Ma
 
 ### ⚡ **Professional Highlights**
 
-* **Graph RAG Context Engine (Ciroos):** Productionized a Graph RAG context engine on a temporal knowledge-graph that sources SRE agent incident answers from team chat and investigation history.
+* **Agentic Search (Ciroos):** Agentic search over incident history, so an SRE agent can look up context from earlier investigations.
+* **Graph RAG Context Engine (Ciroos):** Built a Graph RAG context engine on a temporal knowledge-graph that sources SRE agent incident answers from team chat and investigation history.
 * **Graph-free Vector RAG (Ciroos):** Prototyped a graph-free vector RAG alternative that reached higher retrieval accuracy at significantly lower data ingestion cost over incident chats.
 * **AI Agent Evaluation (Ciroos):** Conduct evals of AI-driven SRE agents across Kubernetes and multi-cloud (AWS, GCP, Azure); author instruction pipelines for accurate Root Cause Analysis and fault diagnosis.
 * **Distributed Training (Bosch):** Designed and scaled a **Ray Cluster** on Azure Kubernetes Service (AKS), reducing retraining cycles from 4 weeks to 1 week for 30+ teams.
